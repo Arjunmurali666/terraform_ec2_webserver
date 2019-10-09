@@ -1,6 +1,6 @@
 # terraform_ec2_webserver
 
-## Terraform - This is a terraform code written to create a webserver in aws. The newly created ec2 will be ready serve HTTP requests since HTTP will be installed on it at the creation time.
+## Terraform - This is a terraform code written to create a webserver in aws. The newly created ec2 will be ready to serve HTTP requests since HTTP will be installed on it at the creation time.
 
 ```terraform
 provider "aws" {
